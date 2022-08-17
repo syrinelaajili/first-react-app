@@ -1,0 +1,23 @@
+.footer-container {
+    background-color: black;
+    text-align: center;
+    padding:2% 0;
+}
+h2 {
+    color: azure;
+    text-transform: uppercase;
+}
+p {
+    color: azure;
+}
+hr {
+    color: white;
+    width: 50%;
+}
+.footer-icons {
+    color: white; 
+}
+.icons {
+    margin-left: 2%;
+    display: inline-block;
+}

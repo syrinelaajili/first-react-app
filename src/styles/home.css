@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+    
+}
+.titre1 {
+    margin: 0 0 0.3em;
+    color: orangered;
+    font-size: var(--font-l);
+    font-weight: bold;
+    padding-top: 4%;
+}
+.titre2 {
+    color: rgb(86, 85, 85);
+    font-size: 1.45rem;
+    font-family: "Source Serif Pro", serif;
+    font-weight: bold;
+    line-height: 1.25;
+    margin-top: 1%;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    margin: 2rem 0;
+    text-align: center;
+}
+.card {
+    list-style: none;
+    flex-basis: 33%;
+    
+
+}
+.img {
+    width: 76px;
+    display: block;
+    margin-left: 20%;
+    margin-bottom: 2%;
+    
+}
+.parag1 {
+    margin: 0.3em 0 0;
+    font-size: small;
+    color: rgb(86, 85, 85); 
+    
+}
+.flex span {
+    text-align: left;
+}
